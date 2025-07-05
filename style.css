@@ -207,3 +207,10 @@ footer .footer-inner .right{
     color: red;
  
 }
+.text{
+    color: red;
+     position: absolute;
+  left: 0;                 /* Zarovnání doleva */
+  bottom: 0;               /* Zarovnání dolů */
+  margin: 10px;            /* Odstup od okraje */
+}
